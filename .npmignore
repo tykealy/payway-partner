@@ -1,0 +1,9 @@
+src/
+tests/
+scripts/
+tsconfig*.json
+vitest.config.ts
+coverage/
+.env
+.env.*
+*.log
